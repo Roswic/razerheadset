@@ -41,7 +41,7 @@ group :development, :test do
   gem 'selenium-webdriver'
   # Use sqlite3 as the database for Active Record
   gem 'sqlite3'
-endgem
+end
 
 group :development do
   # Access an IRB console on exception pages or by using <%= console %> anywhere in the code.
